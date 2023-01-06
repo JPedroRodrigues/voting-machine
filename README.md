@@ -1,7 +1,7 @@
 # 🗳️ Voting Machine Project
- 💬PT-BR: Projeto de urna eletrônica criado durante o primeiro semestre da faculdade de ciência da computação.
+ 💬**PT-BR**: Projeto de urna eletrônica criado durante o primeiro semestre da faculdade de ciência da computação.
  
- 💬EN: A voting machine project created during the first semester of college. Since the main information is written in portuguese, considering the brazilian electoral system, I put a summary right below:
+ 💬**EN**: A voting machine project created during the first semester of college. Since the main information is written in portuguese, considering the brazilian electoral system, I put a summary right below:
 
 1. **Register candidate**: here, insert the candidate's name, political office for which his/her is running for, the party number and its abbreviation (it may not be in this order);
 2. **Register elector**: enter the elector's name and a code to identify him/her (brazilian CPF);
