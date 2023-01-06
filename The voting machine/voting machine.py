@@ -1,5 +1,5 @@
-# João Pedro Rodrigues Vieira | 32281730
-# Jônatas de Brito Silva | 32283792
+# João Pedro Rodrigues Vieira
+# Jônatas de Brito Silva
 # Projeto de Urna Eletrônica - Algoritmos e Programação I
 
 
